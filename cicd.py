@@ -15,4 +15,3 @@ for i in range(0,m,1):
         if (array1[i]==Array[j]):
             Array[j] = i
 print(Array)
-print("auto trigger check")
